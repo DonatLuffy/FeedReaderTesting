@@ -7,7 +7,7 @@
 
 ## To run a project
 
-- open this file [site](https://donatluffy.github.io/Feed_Reader_Testing/) or
+- open this file [site](https://donatluffy.github.io/FeedReaderTesting/) or
 - clone this project and open [index.html](index.html)
 
 ## RSS Feeds
